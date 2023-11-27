@@ -36,7 +36,7 @@ Here are some highlights of my work:
    - **Description:**
      Our project aims to incorporate an existing smart coaster prototype with a Point of Sale (POS) system and payment options to enhance restaurant food order management and improve customer experiences. This will enrich customer experiences in the hospitality industry. By enabling easy food and beverage ordering and payment, our smart coaster solution is expected to increase guest satisfaction and streamline operations.
    - **Skills:** Django · HTML5 · Application Programming Interfaces (API) · Linux · Python (Programming Language) · Cascading Style Sheets (CSS)
-   - ![link to repo](Pranesh-Selvaraj/SmartCoaster-repo)
+   - ![Pranesh-Selvaraj/SmartCoaster-repo](https://github.com/Pranesh-Selvaraj/SmartCoaster-repo.git)
 
 ## 📚 Hobbies
 

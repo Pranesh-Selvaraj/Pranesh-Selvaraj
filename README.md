@@ -27,7 +27,7 @@ Here are some highlights of my work:
    - **Skills:** Robot Operating System (ROS) · SOLIDWORKS · Linux · Drone Building · Drone Piloting · Computer Vision · Python (Programming Language)
    - ![God's Eye](images/Fig1.png)
    - ![God's Eye](images/Fig15.jpg)
-   - ![God's Eye](images/Our drone measurementss.jpg)
+   - ![God's Eye](images/measurements.jpg)
 
 2. **Smart Coaster**
    - **Duration:** Jun 2023 - Oct 2023

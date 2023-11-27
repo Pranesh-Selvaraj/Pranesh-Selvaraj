@@ -9,8 +9,7 @@ Hey there! 👋 I'm Pranesh Selvaraj, a passionate developer and programmer base
 
 ## 🛠️ Skills
 
-- 💻 Programming: Python, JavaScript, C#, C/C++
-- 🌐 Web Development: HTML, CSS, JavaScript, React
+- 💻 Programming: Python, JavaScript, C#, C/C++, HTML, CSS
 - 🖥️ Frameworks: Django, React
 - 📱 VR/AR: Unity, C#
 - ⚙️ Other: Git

@@ -25,9 +25,7 @@ Here are some highlights of my work:
    - **Description:**
      The objective of this project was to build an autonomous aircraft for disaster identification and alerting system. Our team designed a unique flight system inspired by the anatomy of the dragonfly. We presented "God's Eye" in an Internal hackathon for SIH 2020 and qualified as finalists in the Smart India Hackathon (SIH) 2020 organized by the Government of India.
    - **Skills:** Robot Operating System (ROS) · SOLIDWORKS · Linux · Drone Building · Drone Piloting · Computer Vision · Python (Programming Language)
-   - ![God's Eye](images/Fig1.png)
-   - [](images/Fig15.jpg)
-   - [](images/Ourdronemeasurementss.jpg)
+   - ![God's Eye](images/Fig1.png) ![](images/Fig15.jpg)
 
 2. **Smart Coaster**
    - **Duration:** Jun 2023 - Oct 2023

@@ -9,10 +9,10 @@ Hey there! 👋 I'm Pranesh Selvaraj, a passionate developer and programmer base
 
 ## 🛠️ Skills
 
-- 💻 Programming: Python, JavaScript, C#, C/C++, HTML, CSS
-- 🖥️ Frameworks: Django, React
+- 💻 Programming: Python, JavaScript, C#, C/C++, HTML, CSS, SQL
+- 🖥️ Technologies: Django, React, MongoDB, Express.js, Vue.js, Node.js, Docker
 - 📱 VR/AR: Unity, C#
-- ⚙️ Other: Git
+- ⚙️ Other: Machine Learning, CI/CD, Fusion360 3D Modelling
 
 ## 📂 Projects
 
@@ -36,10 +36,17 @@ Here are some highlights of my work:
      Our project aims to incorporate an existing smart coaster prototype with a Point of Sale (POS) system and payment options to enhance restaurant food order management and improve customer experiences. This will enrich customer experiences in the hospitality industry. By enabling easy food and beverage ordering and payment, our smart coaster solution is expected to increase guest satisfaction and streamline operations.
    - **Skills:** Django · HTML5 · Application Programming Interfaces (API) · Linux · Python (Programming Language) · Cascading Style Sheets (CSS)
    - View the source code here: [Pranesh-Selvaraj/SmartCoaster-repo](https://github.com/Pranesh-Selvaraj/SmartCoaster-repo.git)
+3. ** Immersive KitchenVR Simulator**
+   - **Duration:** Nov 2023 - Feb 2024
+   - **Affiliation:** Universität Siegen
+   - **Description:**
+      ImmersiveKitchenVRSlicingSimulatoris acutting-edgeUnityVRproject, showcasingrealistic physics and dynamicinteractions for slicing and dicing in avibrant kitchen environment. Theexperiencehighlightstechnical proficiency withUnity, XRInteraction Toolkit, and offers an engaging, lifelike virtual culinary journey.
+   - **Skills:**  Unity · C# · MetaQuest · Cross-Platform development · Visual Studio
+   - View the source code here: [Pranesh-Selvaraj/SmartCoaster-repo](https://github.com/Pranesh-Selvaraj/SmartCoaster-repo.git)
 
 ## 📚 Hobbies
 
-Apart from coding, I enjoy playing volleyball and diving into good books. Video games sometimes😜
+Apart from coding, I enjoy playing volleyball, swimming and diving into good books. Video games sometimes😜
 
 ## 📫 Let's Connect
 

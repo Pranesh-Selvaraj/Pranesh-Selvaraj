@@ -3,16 +3,17 @@ Hey there! 👋 I'm Pranesh Selvaraj, a passionate developer and programmer base
 ## 🚀 About Me
 
 - 🌐 Fullstack Web Developer
+- 🛠️ DevOps Engineer
 - 🤖 AI Enthusiast
-- 🌌 Exploring the Metaverse and Bloackchain
+- 🌌 Exploring the Metaverse and Blockchain
 - 🕶️ VR/AR Enthusiast
 
 ## 🛠️ Skills
 
-- 💻 Programming: Python, JavaScript, C#, C/C++, HTML, CSS, SQL
-- 🖥️ Technologies: Django, React, MongoDB, Express.js, Vue.js, Node.js, Docker
+- 💻 Programming: Python, JavaScript, C#, C/C++, HTML, CSS, SQL, YAML
+- 🖥️ Technologies: Django, React, MongoDB, Express.js, Vue.js, Node.js, Docker, Kubernetes, Ansible, Git CI/CD
 - 📱 VR/AR: Unity, C#
-- ⚙️ Other: Machine Learning, CI/CD, Fusion360 3d Modelling
+- ⚙️ Other: Fusion360 3D Modelling, Latex
 
 ## 📂 Projects
 

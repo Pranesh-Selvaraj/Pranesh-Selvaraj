@@ -91,6 +91,4 @@ Thanks for stopping by! Feel free to explore my projects and reach out if you ha
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranesh-Selvaraj&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh-Selvaraj&layout=compact&theme=tokyonight)
 ![GitHub Streak Stats](https://streak-stats.demolab.com?user=Pranesh-Selvaraj&theme=tokyonight)
